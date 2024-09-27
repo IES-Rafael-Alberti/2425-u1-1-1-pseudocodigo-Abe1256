@@ -1,0 +1,11 @@
+Inicio
+escribe  "introduce un número"
+leer X
+PARA i DESDE 2 HASTA raíz_cuadrada(X)
+    si X % i == 0 
+        imprimir "no es primo"
+        fin
+    fin si
+fin PARA
+imprimir "es primo"
+fin
