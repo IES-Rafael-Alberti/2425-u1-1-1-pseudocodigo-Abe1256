@@ -1,0 +1,6 @@
+Inicio
+escribe "introduce un número"
+Lee num
+si (num%2==0)  entonces escribe "el número es par"
+si (num%2!=0) entonces escribe "el número es impar"
+Fin

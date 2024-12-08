@@ -1,0 +1,7 @@
+Inicio
+escribe "introduce un número"
+leer X
+Y = 0
+para Y hasta 10:
+    escribir (X*(y+1))
+Fin
